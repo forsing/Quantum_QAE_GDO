@@ -21,9 +21,9 @@ np.random.seed(39)
 
 
 # Putanja do podataka (CSV)
-# putanja = '/Users/4c/Desktop/GHQ/data/loto7_4708_k85.csv'
-# putanja = '/Users/4c/Desktop/GHQ/data/loto7_4708_k85_loto_2976.csv'
-putanja = '/Users/4c/Desktop/GHQ/data/loto7_4708_k85_loto_plus_1732.csv'
+# putanja = '/data/loto7_4708_k85.csv'
+# putanja = '/data/loto7_4708_k85_loto_2976.csv'
+putanja = '/data/loto7_4708_k85_loto_plus_1732.csv'
 
 
 # Učitavanje fajla
@@ -123,19 +123,19 @@ print()
 """
 Mod Čisto Kvantni Model: Qiskit 5-Kubitni Čist Amplitudni Pozicioni Model (Vremenski marker)
 Analizirano redova iz CSV: 4708
-Predložena kombinacija: [4, 5, 6, 18, 26, 33, 34]
+Predložena kombinacija: [4, x, 6, y, 26, z, 34]
 
 
 
 Mod Čisto Kvantni Model: Qiskit 5-Kubitni Čist Amplitudni Pozicioni Model (Vremenski marker)
 Analizirano redova iz CSV: 2976
-Predložena kombinacija: [4, 5, 6, 18, 26, 30, 33]
+Predložena kombinacija: [4, x, 6, y, 26, z, 33]
 
 
 
 Mod Čisto Kvantni Model: Qiskit 5-Kubitni Čist Amplitudni Pozicioni Model (Vremenski marker)
 Analizirano redova iz CSV: 1732
-Predložena kombinacija: [4, 5, 6, 7, 23, 28, 32]
+Predložena kombinacija: [4, x, 6, y, 23, z, 32]
 """
 
 
